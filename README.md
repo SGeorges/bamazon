@@ -37,4 +37,13 @@ Because it's cheap and easy to use as well as satisifies all of your management 
 
 #### Customer Application
 
+This is the starting prompt of the customer application, which requests an ID number to be input or a Q if the user would like to exit.
 ![alt text](./assets/images/bamazon-customer-startprompt.JPG?raw=true "Starting Prompt")
+
+
+This is a final of all inputs used. You can see in the image that the user selected item_id 4, which are the "Cool Shades" and desired to purchase 25 of the item. Because only 5 are in stock that transaction is not possible. The user is then prompted with the same question asking how many they'd like to purchase. The user then inserts the number 2, which is less than the stock_quantity and thus the transaction is made. The result is the user being told what they've purchased and how much it would cost. Additionally the user is given a list of whether they'd like to CONTINUE or QUIT. If continue is selected, the start prompt is displayed (as seen below).
+
+![alt text](.assets/images/bamazon-customer-continueshopping.JPG?raw=true "Entire Program")
+
+
+#### Manager Application
