@@ -37,4 +37,4 @@ Because it's cheap and easy to use as well as satisifies all of your management 
 
 #### Customer Application
 
-![alt text](http://url/)
+![alt text](./assets/images/bamazon-customer-startprompt.JPG?raw=true "Starting Prompt")
